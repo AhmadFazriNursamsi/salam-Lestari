@@ -1,0 +1,46 @@
+
+
+{
+    ///purnawirawa
+    "nama": "Ahmad Fazri Nursamsi",
+    "pangkat_terakhir": "Ipda",
+    "tempat_lahir": "Bekasi",
+    "tanggal_lahir": "17-05-2002",
+    "golongan_darah": "0",
+    "kep_pensiun": "pensiun",
+    "alamat": "Babelan",
+    "dpd_prov": "Jawa Barat",
+    "dpc_kab": "satu",
+
+    ///warakawuri
+
+    "nama": "Nyonya Fazri ",
+    "istri_dari": "Ipda",
+    "pangkat_terakhir_suami": "Ipda",
+    "kep_penswari": "Nyonya",
+    "tempat_lahir": "Bekasi",
+    "tanggal_lahir": "17-05-2002",
+    "golongan_darah": "0",
+    "kep_pensiun": "pensiun",
+    "alamat": "Babelan",
+    "dpd_prov": "Jawa Barat",
+    "dpc_kab": "satu",
+
+    ///Karyawan
+    
+
+    "email_address": "fazrinursyam@gmail.com",
+    "user_name": "Fazri",
+    "password": "12345678",
+    "confPassword": "12345678",
+    "status": "Active ",
+    "phone_number": "0895359470789 ",
+    "statusProfile": "Aktif,",
+    "role": "purnawirawan",
+    "phone_activated": "Active",
+    "date_activated": "Active",
+    "otp_expired": "Active",
+    "payment_activated": "Active",
+    "user_type": 1
+
+}
